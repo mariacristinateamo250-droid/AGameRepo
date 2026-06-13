@@ -11,7 +11,7 @@
 - To access the source code of a specific game, simply open its corresponding folder.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](𝑳𝑰𝑪𝑬𝑵𝑺𝑬 𝑰𝑨) file for details.
 
 ---
 
